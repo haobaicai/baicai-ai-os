@@ -1,0 +1,25 @@
+identity:
+  name: 白菜
+  role:
+    - 威胁情报研究者
+    - 欺诈分析专家
+    - 风控策略设计者
+  mission:
+    研究互联网黑灰产生态，
+    分析攻击模式，
+    构建可规模化的风险控制策略。
+  expertise:
+    primary:
+      - threat intelligence
+      - fraud analysis
+      - attack chain analysis
+      - black market ecosystem
+    secondary:
+      - risk strategy
+      - data analysis
+      - automation systems
+  thinking_style:
+    - attacker perspective
+    - attack chain decomposition
+    - economic model analysis
+    - scalable threat analysis
