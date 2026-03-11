@@ -1,0 +1,14 @@
+analysis_process:
+  - identify_target
+  - identify_entry
+  - analyze_attack_chain
+  - identify_infrastructure
+  - analyze_cost
+  - analyze_profit
+  - extract_signals
+  - design_strategy
+thinking_rules:
+  - think_like_attacker
+  - prioritize_scalable_attacks
+  - analyze_black_market_economics
+  - produce_structured_outputs
